@@ -21,11 +21,11 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/transloadit/uppy.git"
-  },
+  }, 
   "dependencies": {
     "@uppy/companion-client": "workspace:^",
     "@uppy/utils": "workspace:^",
-    "tus-js-client": "^3.0.0"
+    "tus-js-client": "manohar27/tus-js-client#feat\/extension-checksum"
   },
   "devDependencies": {
     "@jest/globals": "^29.0.0"
